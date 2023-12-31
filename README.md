@@ -11,3 +11,20 @@ Ao longo dessa jornada, adquiri experiência em criar soluções inovadoras e ef
 Estou sempre aberto a novos projetos, parcerias e desafios interessantes. Se você está em busca de um desenvolvedor Lua que entende a importância da ética e da integridade no desenvolvimento, estou aqui para ajudar.
 
 ## Serviços
+# --------
+## Scripts Personalizados
+### Como funciona:
+O cliente deve me enviar:
+```exemplo
+    Nome do jogo: 
+    O que deseja no script (Descrição detalhada):
+    Quais opções deseja e como devem funcionar:
+    Forma de pagamento:
+    Prazo para entrega: (Deve ser combinado, a fins de combinar um prazo entre o Desenvolvedor e o Cliente)
+```
+Um hack tambem pode ser feito para sua comunidade, Você pode adicionar:
+```exemplo
+  Nome personalizado:
+  Paleta de cores:
+  E coisas de sua preferencia
+```
