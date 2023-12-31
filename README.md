@@ -12,9 +12,10 @@ Estou sempre aberto a novos projetos, parcerias e desafios interessantes. Se voc
 
 ## Serviços
 # --------
-## Scripts Personalizados
+## Hub Personalizado (Opção 1)
 ### Como funciona:
-O cliente deve me enviar:
+Hub para cliente. O nome da hub irá ser seu nome (Não e permitido mudar)
+O cliente deve enviar:
 ```exemplo
     Nome do jogo: 
     O que deseja no script (Descrição detalhada):
@@ -22,9 +23,18 @@ O cliente deve me enviar:
     Forma de pagamento:
     Prazo para entrega: (Deve ser combinado, a fins de combinar um prazo entre o Desenvolvedor e o Cliente)
 ```
-Um hack tambem pode ser feito para sua comunidade, Você pode adicionar:
+### Hub Comunidade (Opção 1)
+### Como funciona:
+Hub para sua comunidade. Onde há coisas diferentes do hub personalizado.
+Ao inves do hub ter seu nome, irá ter o nome de sua comunidade ou de sua escolha
+Você pode escolher qual será o tipo da paleta de cores do seu hub 
+Lista completa com tudo que tem direito (Preço ira ser maior)
 ```exemplo
-  Nome personalizado:
-  Paleta de cores:
-  E coisas de sua preferencia
+Nome personalizado:
+Paleta de cores de sua escolha:
+Cor dos butões:
+Animações basicas na interface: Sim/Não
+Key sistem (Preço sera modificado com sua resposta.): Sim/Não
+Log sistem (Preço será modificado com sua resposta.): Sim/Não
+E coisas de sua preferencia
 ```
