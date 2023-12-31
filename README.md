@@ -56,3 +56,10 @@ Modo manutenção:
 Módulo de notificação (Modificável):
 Sistema de notificação integrada: (Um envio automático de notificações para seu servidor do Discord. Uma webhook com detalhes avisando sobre o modo manutenção, com prazo de volta, motivo, horário que foi ativado e etc.)
 ```
+
+
+## Forma de Pagamento
+### Regras:
+- ***Pagamento em Robux deve incluir a taxa. (A taxa cobrada pelo Roblox será assumida pelo cliente).***
+- ***Para pagamentos via PIX, é necessário realizar o pagamento antes da entrega do serviço. Não serão aceitos pagamentos posteriores, nem mesmo a opção de efetuar metade do pagamento antes e o restante após a entrega. Agradecemos pela compreensão e cooperação neste processo.***
+- ***Durante o processo de criação, todos os procedimentos são compartilhados com o cliente para garantir que o resultado final atenda às suas expectativas. Devido à natureza personalizada e colaborativa do trabalho, não aceitamos solicitações de reembolso, exceto em casos extremamente específicos. Estamos comprometidos em proporcionar uma experiência satisfatória e garantir que cada projeto seja ajustado conforme as preferências e necessidades do cliente. Agradecemos a compreensão e estamos à disposição para esclarecer qualquer dúvida durante o processo de criação.***
