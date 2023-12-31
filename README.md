@@ -1,10 +1,10 @@
-# Portifolio iamthebestts
+# Portfólio iamthebestts
 
 ## Quem sou?
 
 Meu nome é iamthebestts, e sou um desenvolvedor Lua apaixonado por desafios. Ao longo dos meses, tenho dedicado meu tempo ao aprimoramento das habilidades de programação, especialmente focado em Lua, a linguagem de script poderosa e versátil usada no universo do Roblox.
 
-Minha jornada como desenvolvedor tem sido marcada pela busca constante por conhecimento e pela superação de desafios complexos. Entre os projetos que me motivam, destaco meu envolvimento em hacks, explorando o lado técnico dos sistemas para entender e aproveitar de seus erros na segurança.
+Minha jornada como desenvolvedor tem sido marcada pela busca constante por conhecimento e pela superação de desafios complexos. Entre os projetos que me motivam, destaco meu envolvimento em hacks, explorando o lado técnico dos sistemas para entender e aproveitar seus erros na segurança.
 
 Ao longo dessa jornada, adquiri experiência em criar soluções inovadoras e eficientes, não apenas para hacks, mas também para desafios legítimos no desenvolvimento de jogos no Roblox. Minha paixão pela programação vai além de simples truques; busco constantemente maneiras de contribuir positivamente para a comunidade e elevar o padrão de qualidade no mundo do desenvolvimento de jogos.
 
@@ -12,29 +12,47 @@ Estou sempre aberto a novos projetos, parcerias e desafios interessantes. Se voc
 
 ## Serviços
 # --------
-## Hub Personalizado (Opção 1)
-### Como funciona:
-Hub para cliente. O nome da hub irá ser seu nome (Não e permitido mudar)
+### Hub Personalizado (Opção 1)
+#### Como funciona:
+Hub para o cliente. O nome da hub será o seu nome (Não é permitido mudar).
 O cliente deve enviar:
 ```exemplo
     Nome do jogo: 
     O que deseja no script (Descrição detalhada):
     Quais opções deseja e como devem funcionar:
     Forma de pagamento:
-    Prazo para entrega: (Deve ser combinado, a fins de combinar um prazo entre o Desenvolvedor e o Cliente)
+    Prazo para entrega: (Deve ser combinado, a fim de acertar um prazo entre o Desenvolvedor e o Cliente)
 ```
-### Hub Comunidade (Opção 1)
+### Hub Comunidade (Opção 2)
 ### Como funciona:
-Hub para sua comunidade. Onde há coisas diferentes do hub personalizado.
-Ao inves do hub ter seu nome, irá ter o nome de sua comunidade ou de sua escolha
-Você pode escolher qual será o tipo da paleta de cores do seu hub 
-Lista completa com tudo que tem direito (Preço ira ser maior)
-```exemplo
+Hub para a sua comunidade. Com elementos diferentes do hub personalizado.
+Em vez da hub ter o seu nome, terá o nome da sua comunidade ou de sua escolha.
+Você pode escolher a paleta de cores do seu hub.
+Lista completa com tudo que tem direito (Preço será maior).
+
+```
 Nome personalizado:
 Paleta de cores de sua escolha:
-Cor dos butões:
-Animações basicas na interface: Sim/Não
-Key sistem (Preço sera modificado com sua resposta.): Sim/Não
-Log sistem (Preço será modificado com sua resposta.): Sim/Não
-E coisas de sua preferencia
+Cor dos botões:
+Animações básicas na interface: Sim/Não
+Key system (Preço será modificado com sua resposta.): Sim/Não
+Log system (Preço será modificado com sua resposta.) (Limitado): Sim/Não
+Prazo de entrega: (Deve ser mais extenso)
+E coisas de sua preferência.
+```
+
+### Hub Master (Opção 3)
+### Como funciona:
+Hub para o que você quiser, privada, comunidade, etc.
+Com a Hub Master, você tem direito a:
+```
+Nome personalizado para hub:
+Tela de carregamento animada:
+Logo de sua comunidade ou etc na hub:
+Key System:
+Log System (Completo):
+Funções para atrair pessoas: (Divulgação de sua comunidade dentro do próprio hack)
+Modo manutenção:
+Módulo de notificação (Modificável):
+Sistema de notificação integrada: (Um envio automático de notificações para seu servidor do Discord. Uma webhook com detalhes avisando sobre o modo manutenção, com prazo de volta, motivo, horário que foi ativado e etc.)
 ```
